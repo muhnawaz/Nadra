@@ -1,0 +1,105 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 9:56:42 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : RightThumb ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:121|MESSAGE:invalid finger index
+Response from DMZ At : 4/20/2022 9:56:43 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 9:59:39 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 6 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 9:59:40 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 10:12:37 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 10:12:39 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 10:47:42 AM
+Request from User : {Session_ID :  ,Citizen_No : 4220146698727 ,Contact_No : 03368211148 ,Finger_Index : 1 ,Area_Name : gilgit-baltistan ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 10:47:48 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 10:53:12 AM
+Request from User : {Session_ID :  ,Citizen_No : 4221526987425 ,Contact_No : 02325468556 ,Finger_Index : 1 ,Area_Name : punjab ,Account_Type : current }
+Response from DMZ : |CODE:116|MESSAGE:citizen number does not exists in test data lookup
+Response from DMZ At : 4/20/2022 10:53:16 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 10:55:18 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : RightThumb ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:121|MESSAGE:invalid finger index
+Response from DMZ At : 4/20/2022 10:55:19 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 10:55:29 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165002|CITIZEN_NUMBER:4240166090929
+Response from DMZ At : 4/20/2022 10:55:30 AM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/20/2022 11:01:41 AM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4240166090929
+Response from DMZ At : 4/20/2022 11:01:42 AM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/20/2022 11:01:54 AM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4240166090929
+Response from DMZ At : 4/20/2022 11:01:55 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 11:10:19 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 11:10:22 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 11:12:55 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 11:12:56 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 11:27:04 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165005|CITIZEN_NUMBER:4240166090929
+Response from DMZ At : 4/20/2022 11:27:05 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 11:29:09 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 6 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:122|MESSAGE:fingerprints did not match
+Response from DMZ At : 4/20/2022 11:29:17 AM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/20/2022 11:29:48 AM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4240166090929
+Response from DMZ At : 4/20/2022 11:29:48 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 11:41:18 AM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165018|CITIZEN_NUMBER:4240166090929
+Response from DMZ At : 4/20/2022 11:41:18 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 12:22:13 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165020|CITIZEN_NUMBER:4240166090929
+Response from DMZ At : 4/20/2022 12:22:19 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 12:23:35 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090920 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:116|MESSAGE:citizen number does not exists in test data lookup
+Response from DMZ At : 4/20/2022 12:23:35 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 2:30:52 PM
+Request from User : {Session_ID :  ,Citizen_No : 4220120581768 ,Contact_No : 03368424715 ,Finger_Index : 6 ,Area_Name : sindh ,Account_Type : saving }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165033|CITIZEN_NUMBER:4220120581768
+Response from DMZ At : 4/20/2022 2:31:02 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 2:47:48 PM
+Request from User : {Session_ID :  ,Citizen_No : 4220120581768 ,Contact_No : 03362484175 ,Finger_Index : 10 ,Area_Name : sindh ,Account_Type : saving }
+Response from DMZ : |CODE:121|MESSAGE:invalid finger index
+Response from DMZ At : 4/20/2022 2:47:49 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 2:48:38 PM
+Request from User : {Session_ID :  ,Citizen_No : 4220120581768 ,Contact_No : 03362484175 ,Finger_Index : 6 ,Area_Name : sindh ,Account_Type : saving }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165037|CITIZEN_NUMBER:4220120581768
+Response from DMZ At : 4/20/2022 2:48:39 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/20/2022 3:26:41 PM
+Request from User : {Session_ID :  ,Citizen_No : 4210196259815 ,Contact_No : 03362521171 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000165043|CITIZEN_NUMBER:4210196259815
+Response from DMZ At : 4/20/2022 3:26:47 PM

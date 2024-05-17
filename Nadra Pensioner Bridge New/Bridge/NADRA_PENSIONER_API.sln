@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NADRA_PENSIONER_API", "NADRA_PENSIONER_API\NADRA_PENSIONER_API.csproj", "{6D598749-7AEE-4812-B558-D88CC54E118C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D598749-7AEE-4812-B558-D88CC54E118C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D598749-7AEE-4812-B558-D88CC54E118C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D598749-7AEE-4812-B558-D88CC54E118C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D598749-7AEE-4812-B558-D88CC54E118C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {538D5CAD-8E0A-4012-9DAA-408714182DBF}
+	EndGlobalSection
+EndGlobal

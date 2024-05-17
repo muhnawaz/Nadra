@@ -1,0 +1,12 @@
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 5/31/2022 11:14:30 AM
+Request from User : {CITIZEN_NUMBER : 4210196259815 }
+Response from DMZ : The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220531 - Log.txt' because it is being used by another process.
+Response from DMZ At : 5/31/2022 11:14:34 AM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 5/31/2022 11:15:41 AM
+Request from User : {CITIZEN_NUMBER : 4210196259815 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4210196259815
+Response from DMZ At : 5/31/2022 11:15:41 AM
+Exception At Bridge : The request was aborted: The operation has timed out.
+Exception At Bridge : The request was aborted: The operation has timed out.

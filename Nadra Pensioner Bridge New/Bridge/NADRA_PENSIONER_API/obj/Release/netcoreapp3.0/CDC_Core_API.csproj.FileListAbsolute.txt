@@ -1,0 +1,816 @@
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csprojAssemblyReference.cache
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CopyComplete
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Uzair\RDA\Finalized\SourceCode\SandboxCore\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\JSON\Setup.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csprojAssemblyReference.cache
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CopyComplete
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Uzair\RDA\Sandbox_WorkingProject\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\JSON\Setup.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.AssemblyReference.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CoreCompileInputs.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\scopedcss\bundle\CDC_Core_API.styles.css
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Midhat\Working Projects\NADRA\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.genruntimeconfig.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\JSON\Setup.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.AssemblyReference.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CoreCompileInputs.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\scopedcss\bundle\CDC_Core_API.styles.css
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\Midhat\Working Projects\NADRA\Nadra Sandbox - Final\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.genruntimeconfig.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\JSON\Setup.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csprojAssemblyReference.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CopyComplete
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\OLD PC\Midhat\Working Projects\NADRA\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\JSON\Setup.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\appsettings.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.exe
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.deps.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.runtimeconfig.dev.json
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\CDC_Core_API.pdb
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Humanizer.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Collections.Immutable.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csprojAssemblyReference.cache
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.Manifest.cache
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\staticwebassets\CDC_Core_API.StaticWebAssets.xml
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.MvcApplicationPartsAssemblyInfo.cache
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfoInputs.cache
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.AssemblyInfo.cs
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.RazorTargetAssemblyInfo.cache
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.csproj.CopyComplete
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.dll
+D:\OLD PC\Midhat\Working Projects\4-NADRA-DigitalOnboarding\Nadra Sandbox\Sandbox\CDC_Core_API\obj\Release\netcoreapp3.0\CDC_Core_API.pdb

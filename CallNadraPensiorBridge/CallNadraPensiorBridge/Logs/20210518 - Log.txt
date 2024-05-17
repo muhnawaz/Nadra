@@ -1,0 +1,5 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 5/18/2021 10:04:02 AM
+Request from User : {Session_ID :  ,Citizen_No : 4631328476244 ,Contact_No : 03419087121 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 5/18/2021 10:04:27 AM

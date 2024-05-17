@@ -1,0 +1,10 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/28/2021 1:02:19 PM
+Request from User : {Session_ID :  ,Citizen_No : 4631328476244 ,Contact_No : 03129078456 ,Finger_Index : 1 ,Area_Name : punjab ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/28/2021 1:02:41 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/28/2021 3:28:06 PM
+Request from User : {Session_ID :  ,Citizen_No : 4631328476244 ,Contact_No : 03357865321 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/28/2021 3:28:30 PM

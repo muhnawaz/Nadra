@@ -1,0 +1,43 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 3/12/2021 11:39:04 AM
+Request from User : {Session_ID :  ,Citizen_No :  ,Contact_No :  ,Finger_Index :  ,Area_Name :  ,Account_Type :  }
+Exception At Bridge : The request failed with HTTP status 503: Service Unavailable.
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 3/12/2021 5:10:46 PM
+Request from User : {Session_ID :  ,Citizen_No : 456234568 ,Contact_No : 315485412 ,Finger_Index : 1 ,Area_Name : ghj ,Account_Type : hgjhg }
+Response from DMZ : |CODE:185|MESSAGE:invalid area name
+Response from DMZ At : 3/12/2021 5:10:56 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:15:04 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Response from DMZ : |CODE103|MESSAGEinvalid user name/password|CODE:-1|MESSAGE:103invalid user name/password
+Response from DMZ At : 3/12/2021 5:15:12 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:20:59 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Exception At Bridge : Server was unable to process request. ---> Access to the path 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Logs\20210312 - Log.txt' is denied.
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:22:31 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Response from DMZ : |CODE103|MESSAGEinvalid user name/password|CODE:-1|MESSAGE:103invalid user name/password
+Response from DMZ At : 3/12/2021 5:22:38 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:33:17 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Response from DMZ : |CODE103|MESSAGEinvalid user name/password|CODE:-1|MESSAGE:103invalid user name/password
+Response from DMZ At : 3/12/2021 5:33:19 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:36:40 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Response from DMZ : |CODE107|MESSAGEinvalid citizen nummber|CODE:-1|MESSAGE:107invalid citizen nummber'4220169756254'
+Response from DMZ At : 3/12/2021 5:36:42 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 3/12/2021 5:40:26 PM
+Request from User : {Session_ID :  ,Citizen_No : 456234568 ,Contact_No : 315485412 ,Finger_Index : 1 ,Area_Name : ghj ,Account_Type : hgjhg }
+Response from DMZ : |CODE:185|MESSAGE:invalid area name
+Response from DMZ At : 3/12/2021 5:40:34 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 3/12/2021 5:41:06 PM
+Request from User : {CITIZEN_NUMBER : 4220169756254 }
+Response from DMZ : |CODE107|MESSAGEinvalid citizen nummber|CODE:-1|MESSAGE:107invalid citizen nummber'4220169756254'
+Response from DMZ At : 3/12/2021 5:41:07 PM

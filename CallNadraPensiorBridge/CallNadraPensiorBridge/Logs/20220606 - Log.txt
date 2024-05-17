@@ -1,0 +1,13 @@
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 6/6/2022 11:51:30 AM
+Request from User : {CITIZEN_NUMBER : 4210196259815 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4210196259815
+Response from DMZ At : 6/6/2022 11:51:31 AM
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.
+Exception At Bridge : Server was unable to process request. ---> The process cannot access the file 'C:\inetpub\wwwroot\Nadra_Pensior\Nadra_Pensior\Nadra_Pensior\Logs\20220606 - Log.txt' because it is being used by another process.

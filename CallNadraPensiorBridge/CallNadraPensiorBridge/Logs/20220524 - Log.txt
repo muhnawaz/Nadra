@@ -1,0 +1,10 @@
+Exception At Bridge : Parameter is not valid.
+Exception At Bridge : Parameter is not valid.
+Exception At Bridge : Parameter is not valid.
+Exception At Bridge : Parameter is not valid.
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 5/24/2022 2:57:26 PM
+Request from User : {CITIZEN_NUMBER : 4220120581768 }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 5/24/2022 2:57:47 PM
+Exception At Bridge : Parameter is not valid.

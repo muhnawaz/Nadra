@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "e7968027-a8c5-4af7-8ec5-5658f8572e80",
+		"name": "Pensioner DMZ 172.18.0.37",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "dibVerifyFingerPrints",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"type": "text",
+						"value": "application/xml"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n  <soap:Body>\r\n    <dibVerifyFingerPrints xmlns=\"http://tempuri.org/\">\r\n      <SESSION_ID></SESSION_ID>\r\n      <CITIZEN_NUMBER>4220146698727</CITIZEN_NUMBER>\r\n      <CONTACT_NUMBER>03368211148</CONTACT_NUMBER>\r\n      <FINGER_INDEX>1</FINGER_INDEX>\r\n      <FINGER_TEMPLATE>/6D/qAB6TklTVF9DT00gOQpQSVhfV0lEVEggMzI1ClBJWF9IRUlHSFQgNTUzClBJWF9ERVBUSCA4ClBQSSA1MDAKTE9TU1kgMQpDT0xPUlNQQUNFIEdSQVkKQ09NUFJFU1NJT04gV1NRCldTUV9CSVRSQVRFIDIuMjUwMDAw/6gAElZlcmlkaXVtIElEIDRGLgr/pAA6CQcACTLTJc0ACuDzGZoBCkHv8ZoBC44nZM0AC+F5ozMACS7/VgABCvkz0zMBC/KHIZoACiZ32jP/pQGFAgAsAzyoA0jKAzyoA0jKAzyoA0jKAzyoA0jKAzqqA0ZmAz0IA0k8AzjaA0Q5AzRCAz62Ay8vAzifAzVbA0AHAzJiAzx1Az05A0l4AznrA0WAAzn0A0WLAztgA0dAAzprA0YaAzljA0TdAzzyA0kiAzwbA0ggAzNSAz2WAzv4A0f3AzbYA0HQAzyNA0iqAz5rA0rnA0dYA1WdA0EAA04AA0f+A1ZkAz8bA0u5A0HlA08TA0FGA05UA0f4A1ZdA0WKA1NzA0wDA1s3A0e9A1YWA0x2A1vBAz6iA0spAz6xA0s7A0ITA09KA0SfA1JYA0D2A031A0L3A1BbA0j5A1eRA0VsA1NOA0SwA1JsA0beA1UKA1AMA2AOA1BPA2BeA0qjA1mRA0s8A1pIA1aJA2fXA1GWA2HoA1JDA2K2Az1DA0mDA1I1A2KmA0P9A1GWA2RsA3iCA0giA1aPA0rnA1niA3D1A4eMA39+A5j9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/6IAEQD/AikBRQI5IAQsoQIAAP+mALIAAAAAABEMERETHhYRAwUAAAGsra6vsLGys7W2t7i5uru8paanqKmqq72+v8DBZZ6foKGio6TCw8TFxsfIyc8CZpaXmJmam5ydysvMzc7Q0gOKjZCRkpOUldHT1NXW19jZ2uMEBgcIen6ChIWGh4iJi4yOj9vc3d7f4OLk5efq6+0FbnFyc3d4eXt8fX+AgYPh5uns</FINGER_TEMPLATE>\r\n      <AREA_NAME>gilgit-baltistan</AREA_NAME>\r\n    </dibVerifyFingerPrints>\r\n  </soap:Body>\r\n</soap:Envelope>\r\n\r\n"
+				},
+				"url": {
+					"raw": "http://172.18.0.37:4000/CallNadraPensior.asmx?op=dibVerifyFingerPrints",
+					"protocol": "http",
+					"host": [
+						"172",
+						"18",
+						"0",
+						"37"
+					],
+					"port": "4000",
+					"path": [
+						"CallNadraPensior.asmx"
+					],
+					"query": [
+						{
+							"key": "op",
+							"value": "dibVerifyFingerPrints"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "dibGetLastVerification",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/xml",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n  <soap:Body>\r\n    <dibGetLastVerification xmlns=\"http://tempuri.org/\">\r\n      <CITIZEN_NUMBER>4220146698727</CITIZEN_NUMBER>\r\n    </dibGetLastVerification>\r\n  </soap:Body>\r\n</soap:Envelope>\r\n"
+				},
+				"url": {
+					"raw": "http://172.18.0.37:4000/CallNadraPensior.asmx?op=dibGetLastVerfication",
+					"protocol": "http",
+					"host": [
+						"172",
+						"18",
+						"0",
+						"37"
+					],
+					"port": "4000",
+					"path": [
+						"CallNadraPensior.asmx"
+					],
+					"query": [
+						{
+							"key": "op",
+							"value": "dibGetLastVerfication"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

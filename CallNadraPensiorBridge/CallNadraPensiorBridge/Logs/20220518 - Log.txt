@@ -1,0 +1,5 @@
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 5/18/2022 5:38:50 PM
+Request from User : {CITIZEN_NUMBER : 4220120581768 }
+Response from DMZ : |CODE151|MESSAGENo request found against citizen number/transaction id|CODE:-1|MESSAGE:151No request found against citizen number/transaction id4220120581768
+Response from DMZ At : 5/18/2022 5:38:54 PM

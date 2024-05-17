@@ -1,0 +1,24 @@
+C:\Jawad\Projects\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.dll
+C:\Jawad\Projects\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.pdb
+C:\Jawad\Projects\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.dll
+C:\Jawad\Projects\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.pdb
+C:\Jawad\Projects\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.csprojResolveAssemblyReference.cache
+C:\Uzair\project\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.csprojResolveAssemblyReference.cache
+C:\Uzair\project\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.dll
+C:\Uzair\project\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.dll
+C:\Uzair\project\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.pdb
+C:\Uzair\project\Pensioner Project (NADRA)\Nadra_Pensior_MyWork\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.pdb
+C:\Pensioner\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.dll
+C:\Pensioner\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.pdb
+C:\Pensioner\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.dll
+C:\Pensioner\Nadra_Pensior_Bridge\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.pdb
+D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.dll
+D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.pdb
+D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.csprojResolveAssemblyReference.cache
+D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.dll
+D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.pdb
+D:\Nawaz Project\NADRA\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.dll
+D:\Nawaz Project\NADRA\CallNadraPensiorBridge\CallNadraPensiorBridge\bin\CallNadraPensiorBridge.pdb
+D:\Nawaz Project\NADRA\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.csprojAssemblyReference.cache
+D:\Nawaz Project\NADRA\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.dll
+D:\Nawaz Project\NADRA\CallNadraPensiorBridge\CallNadraPensiorBridge\obj\Debug\CallNadraPensiorBridge.pdb

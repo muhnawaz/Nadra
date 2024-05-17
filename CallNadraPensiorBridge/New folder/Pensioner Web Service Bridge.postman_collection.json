@@ -1,0 +1,87 @@
+{
+	"info": {
+		"_postman_id": "fedd0b85-9d5d-4cb2-8b9e-415a388df47c",
+		"name": "Pensioner Web Service Bridge",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "verifyPensiorFingerPrint",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/xml",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n  <soap:Body>\r\n    <verifyPensiorFingerPrint xmlns=\"http://tempuri.org/\">\r\n      <SESSION_ID></SESSION_ID>\r\n      <CITIZEN_NUMBER>4240166090929</CITIZEN_NUMBER>\r\n      <CONTACT_NUMBER>03412289317</CONTACT_NUMBER>\r\n      <FINGER_INDEX>RightThumb</FINGER_INDEX>\r\n      <FINGER_TEMPLATE>Rk1SACAyMAAAAADkAAABBAEsAMUAxQEAAAAAIUCzABVoAICQACZuAIBlADfvAIBXAD5zAEDgAD9nAIAjAEJ8AIAXAFCHAIDVAFNuAIDkAG7qAEB4AHJxAED5AINiAEBnAI1zAEBHAJV9AIDmAJznAEDIAKFkAEBSALT+AIB2AL51AIDCAMFhAEDjAMjdAIB1AMt4AEAsANCWAIBfAN7/AEBoAOd9AECLAOpoAICwAPjWAEAmAP2uAEDvAP/bAEAXAQGuAICRAQXUAEB0AQ9zAECPARZVAEAtARq4AEBEARy1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</FINGER_TEMPLATE>\r\n      <AREA_NAME>sindh</AREA_NAME>\r\n      <ACCOUNT_TYPE>current</ACCOUNT_TYPE>\r\n    </verifyPensiorFingerPrint>\r\n  </soap:Body>\r\n</soap:Envelope>\r\n"
+				},
+				"url": {
+					"raw": "http://172.16.19.52:9901/Nadra_Pensior_Bridge.asmx?op=verifyPensiorFingerPrint",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"52"
+					],
+					"port": "9901",
+					"path": [
+						"Nadra_Pensior_Bridge.asmx"
+					],
+					"query": [
+						{
+							"key": "op",
+							"value": "verifyPensiorFingerPrint"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getLastVerificationResult",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/xml",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<soap:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap=\"http://schemas.xmlsoap.org/soap/envelope/\">\r\n  <soap:Body>\r\n    <getLastVerificationResult xmlns=\"http://tempuri.org/\">\r\n      <CITIZEN_NUMBER>4240166090929</CITIZEN_NUMBER>\r\n    </getLastVerificationResult>\r\n  </soap:Body>\r\n</soap:Envelope>\r\n\t"
+				},
+				"url": {
+					"raw": "http://172.16.19.52:9901/Nadra_Pensior_Bridge.asmx?op=getLastVerificationResult",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"52"
+					],
+					"port": "9901",
+					"path": [
+						"Nadra_Pensior_Bridge.asmx"
+					],
+					"query": [
+						{
+							"key": "op",
+							"value": "getLastVerificationResult"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

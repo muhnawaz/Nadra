@@ -1,0 +1,412 @@
+{
+	"info": {
+		"_postman_id": "cf1b8233-40cf-4004-b626-ee650100e37c",
+		"name": "NADRA_PENSIONER_APIS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "verifyPensiorFingerPrint",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTgyMzYxOTEsImV4cCI6MTY5ODIzOTc5MSwiaWF0IjoxNjk4MjM2MTkxfQ.jf-pYcSPObqkdZJMrpyacKMbg7QYSs2_P2MnXNZQ57g",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"CITIZEN_NUMBER\":\"4210138018674\",\r\n    \"CONTACT_NUMBER\":\"03353029939\",\r\n    \"FINGER_INDEX\":\"1\",\r\n    \"FINGER_TEMPLATE\":\"/6D/qAB6TklTVF9DT00gOQpQSVhfV0lEVEggMzI1ClBJWF9IRUlHSFQgNTUzClBJWF9ERVBUSCA4ClBQSSA1MDAKTE9TU1kgMQpDT0xPUlNQQUNFIEdSQVkKQ09NUFJFU1NJT04gV1NRCldTUV9CSVRSQVRFIDIuMjUwMDAw/6gAElZlcmlkaXVtIElEIDRGLgr/pAA6CQcACTLTJc0ACuDzGZoBCkHv8ZoBC44nZM0AC+F5ozMACS7/VgABCvkz0zMBC/KHIZoACiZ32jP/pQGFAgAsAzyoA0jKAzyoA0jKAzyoA0jKAzyoA0jKAzqqA0ZmAz0IA0k8AzjaA0Q5AzRCAz62Ay8vAzifAzVbA0AHAzJiAzx1Az05A0l4AznrA0WAAzn0A0WLAztgA0dAAzprA0YaAzljA0TdAzzyA0kiAzwbA0ggAzNSAz2WAzv4A0f3AzbYA0HQAzyNA0iqAz5rA0rnA0dYA1WdA0EAA04AA0f+A1ZkAz8bA0u5A0HlA08TA0FGA05UA0f4A1ZdA0WKA1NzA0wDA1s3A0e9A1YWA0x2A1vBAz6iA0spAz6xA0s7A0ITA09KA0SfA1JYA0D2A031A0L3A1BbA0j5A1eRA0VsA1NOA0SwA1JsA0beA1UKA1AMA2AOA1BPA2BeA0qjA1mRA0s8A1pIA1aJA2fXA1GWA2HoA1JDA2K2Az1DA0mDA1I1A2KmA0P9A1GWA2RsA3iCA0giA1aPA0rnA1niA3D1A4eMA39+A5j9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/6IAEQD/AikBRQI5IAQsoQIAAP+mALIAAAAAABEMERETHhYRAwUAAAGsra6vsLGys7W2t7i5uru8paanqKmqq72+v8DBZZ6foKGio6TCw8TFxsfIyc8CZpaXmJmam5ydysvMzc7Q0gOKjZCRkpOUldHT1NXW19jZ2uMEBgcIen6ChIWGh4iJi4yOj9vc3d7f4OLk5efq6+0FbnFyc3d4eXt8fX+AgYPh5uns\",\r\n        \"AREA_NAME\":\"sindh\"\r\n   \r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:2168//api/Nadra/verifyPensiorFingerPrint",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "2168",
+					"path": [
+						"",
+						"api",
+						"Nadra",
+						"verifyPensiorFingerPrint"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetLastVerificationResults",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTgyMzYxOTEsImV4cCI6MTY5ODIzOTc5MSwiaWF0IjoxNjk4MjM2MTkxfQ.jf-pYcSPObqkdZJMrpyacKMbg7QYSs2_P2MnXNZQ57g",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"CNIC\":\"4210138018674\",\r\n    \"transactionId\":\"1505831731252507118\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:2168/api/Nadra/GetLastVerificationResults",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "2168",
+					"path": [
+						"api",
+						"Nadra",
+						"GetLastVerificationResults"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertNadra",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTYzMTM0NjgsImV4cCI6MTY5NjMxNzA2OCwiaWF0IjoxNjk2MzEzNDY4fQ.L0FT3QKFIZadcvAsKzsq_58bJMO8fLaMZsJB7RyBdjY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/InsertNadra?cnic=4210138018674",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"InsertNadra"
+					],
+					"query": [
+						{
+							"key": "cnic",
+							"value": "4210138018674"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetCNIC",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTUyMTU3NTEsImV4cCI6MTY5NTIxOTM1MSwiaWF0IjoxNjk1MjE1NzUxfQ.vGAvnVxgByf7uyvlGcxJkQGjjXC2MYqh-mgc28LfKmo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/GetCNIC?IPAddress=172.16.129.226",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"GetCNIC"
+					],
+					"query": [
+						{
+							"key": "IPAddress",
+							"value": "172.16.129.226"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetVerificationResult",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE3MDMwNTEzNTUsImV4cCI6MTcwMzA1NDk1NSwiaWF0IjoxNzAzMDUxMzU1fQ.VU80usOFIksAL60qxuDii-nYePOZ6X1xIKS2st49Vxo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/GetVerificationResult?IPAddress=172.16.4.80",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"GetVerificationResult"
+					],
+					"query": [
+						{
+							"key": "IPAddress",
+							"value": "172.16.4.80"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "VerifyUser",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTUyMTU3NTEsImV4cCI6MTY5NTIxOTM1MSwiaWF0IjoxNjk1MjE1NzUxfQ.vGAvnVxgByf7uyvlGcxJkQGjjXC2MYqh-mgc28LfKmo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/VerifyUser?Username=nawaz",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"VerifyUser"
+					],
+					"query": [
+						{
+							"key": "Username",
+							"value": "nawaz"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "GetToken",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"ID\":\"sandbox\",\r\n    \"Password\":\"YlTSFpQJuMWtncnCJC0vnZ8WUxzH7eHmW5xrg64B9oY\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/token/getToken",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"token",
+						"getToken"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertRunlog",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTUyMTU3NTEsImV4cCI6MTY5NTIxOTM1MSwiaWF0IjoxNjk1MjE1NzUxfQ.vGAvnVxgByf7uyvlGcxJkQGjjXC2MYqh-mgc28LfKmo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n     \"user_id\":\"test\",\r\n     \"sys_user\":\"test\",\r\n     \"sys_name\":\"URDTSTW4STK0003\",\r\n     \"sys_ip\":\"172.16.102.178\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/InsertRunlog",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"InsertRunlog"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "InsertImage",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTUyMTU3NTEsImV4cCI6MTY5NTIxOTM1MSwiaWF0IjoxNjk1MjE1NzUxfQ.vGAvnVxgByf7uyvlGcxJkQGjjXC2MYqh-mgc28LfKmo",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n     \"cnic\":\"test\",\r\n     \"ipaddress\":\"URDTSTW4STK0003\",\r\n     \"imageData\":\"/6D/qAB6TklTVF9DT00gOQpQSVhfV0lEVEggMzI1ClBJWF9IRUlHSFQgNTUzClBJWF9ERVBUSCA4ClBQSSA1MDAKTE9TU1kgMQpDT0xPUlNQQUNFIEdSQVkKQ09NUFJFU1NJT04gV1NRCldTUV9CSVRSQVRFIDIuMjUwMDAw/6gAElZlcmlkaXVtIElEIDRGLgr/pAA6CQcACTLTJc0ACuDzGZoBCkHv8ZoBC44nZM0AC+F5ozMACS7/VgABCvkz0zMBC/KHIZoACiZ32jP/pQGFAgAsAzyoA0jKAzyoA0jKAzyoA0jKAzyoA0jKAzqqA0ZmAz0IA0k8AzjaA0Q5AzRCAz62Ay8vAzifAzVbA0AHAzJiAzx1Az05A0l4AznrA0WAAzn0A0WLAztgA0dAAzprA0YaAzljA0TdAzzyA0kiAzwbA0ggAzNSAz2WAzv4A0f3AzbYA0HQAzyNA0iqAz5rA0rnA0dYA1WdA0EAA04AA0f+A1ZkAz8bA0u5A0HlA08TA0FGA05UA0f4A1ZdA0WKA1NzA0wDA1s3A0e9A1YWA0x2A1vBAz6iA0spAz6xA0s7A0ITA09KA0SfA1JYA0D2A031A0L3A1BbA0j5A1eRA0VsA1NOA0SwA1JsA0beA1UKA1AMA2AOA1BPA2BeA0qjA1mRA0s8A1pIA1aJA2fXA1GWA2HoA1JDA2K2Az1DA0mDA1I1A2KmA0P9A1GWA2RsA3iCA0giA1aPA0rnA1niA3D1A4eMA39+A5j9AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/6IAEQD/AikBRQI5IAQsoQIAAP+mALIAAAAAABEMERETHhYRAwUAAAGsra6vsLGys7W2t7i5uru8paanqKmqq72+v8DBZZ6foKGio6TCw8TFxsfIyc8CZpaXmJmam5ydysvMzc7Q0gOKjZCRkpOUldHT1NXW19jZ2uMEBgcIen6ChIWGh4iJi4yOj9vc3d7f4OLk5efq6+0FbnFyc3d4eXt8fX+AgYPh5uns\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/InsertImage",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"InsertImage"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "UpdateNadraResults",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJyb2xlIjoiQWRtaW4iLCJuYmYiOjE2OTgyMzczODYsImV4cCI6MTY5ODI0MDk4NiwiaWF0IjoxNjk4MjM3Mzg2fQ.9OhM4FgfEKhimMHOHy5A6OMm_Q_0OYVpJIb-9J4Nz4c",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n     \"cnic\":\"3630250292109\",\r\n     \"ipaddress\":\"172.16.102.178\",\r\n     \"VERIFYED\":\"1\",\r\n     \"NADRA\":\"response from nadra\"\r\n}\r\n    ",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://172.16.19.57:8005/api/Nadra/UpdateNadraResults",
+					"protocol": "http",
+					"host": [
+						"172",
+						"16",
+						"19",
+						"57"
+					],
+					"port": "8005",
+					"path": [
+						"api",
+						"Nadra",
+						"UpdateNadraResults"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

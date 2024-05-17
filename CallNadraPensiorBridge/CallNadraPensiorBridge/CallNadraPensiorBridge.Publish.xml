@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\OLD PC\Midhat\Working Projects\5-NADRA-Pensioner\NADRA Pensioner Final\Bridge Service\Publish" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="NADRAPensioner.aspx" publishTime="06/15/2022 15:04:27" />
+    <file relUrl="bin/CallNadraPensiorBridge.pdb" publishTime="09/05/2022 12:54:07" />
+    <file relUrl="Nadra_Pensior_Bridge.asmx" publishTime="03/11/2021 15:05:10" />
+    <file relUrl="bin/CallNadraPensiorBridge.dll" publishTime="09/05/2022 12:54:07" />
+    <file relUrl="Web.config" publishTime="09/05/2022 12:54:30" />
+  </publishProfile>
+</publishData>

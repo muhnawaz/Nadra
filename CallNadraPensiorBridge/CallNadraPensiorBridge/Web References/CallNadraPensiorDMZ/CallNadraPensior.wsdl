@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="dibVerifyFingerPrints">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SESSION_ID" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CITIZEN_NUMBER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="CONTACT_NUMBER" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="FINGER_INDEX" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="FINGER_TEMPLATE" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="AREA_NAME" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dibVerifyFingerPrintsResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dibVerifyFingerPrintsResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dibGetLastVerification">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CITIZEN_NUMBER" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="dibGetLastVerificationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="dibGetLastVerificationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="dibVerifyFingerPrintsSoapIn">
+    <wsdl:part name="parameters" element="tns:dibVerifyFingerPrints" />
+  </wsdl:message>
+  <wsdl:message name="dibVerifyFingerPrintsSoapOut">
+    <wsdl:part name="parameters" element="tns:dibVerifyFingerPrintsResponse" />
+  </wsdl:message>
+  <wsdl:message name="dibGetLastVerificationSoapIn">
+    <wsdl:part name="parameters" element="tns:dibGetLastVerification" />
+  </wsdl:message>
+  <wsdl:message name="dibGetLastVerificationSoapOut">
+    <wsdl:part name="parameters" element="tns:dibGetLastVerificationResponse" />
+  </wsdl:message>
+  <wsdl:portType name="CallNadraPensiorSoap">
+    <wsdl:operation name="dibVerifyFingerPrints">
+      <wsdl:input message="tns:dibVerifyFingerPrintsSoapIn" />
+      <wsdl:output message="tns:dibVerifyFingerPrintsSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dibGetLastVerification">
+      <wsdl:input message="tns:dibGetLastVerificationSoapIn" />
+      <wsdl:output message="tns:dibGetLastVerificationSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="CallNadraPensiorSoap" type="tns:CallNadraPensiorSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="dibVerifyFingerPrints">
+      <soap:operation soapAction="http://tempuri.org/dibVerifyFingerPrints" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dibGetLastVerification">
+      <soap:operation soapAction="http://tempuri.org/dibGetLastVerification" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="CallNadraPensiorSoap12" type="tns:CallNadraPensiorSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="dibVerifyFingerPrints">
+      <soap12:operation soapAction="http://tempuri.org/dibVerifyFingerPrints" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dibGetLastVerification">
+      <soap12:operation soapAction="http://tempuri.org/dibGetLastVerification" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="CallNadraPensior">
+    <wsdl:port name="CallNadraPensiorSoap" binding="tns:CallNadraPensiorSoap">
+      <soap:address location="http://172.18.0.37:4000/CallNadraPensior.asmx" />
+    </wsdl:port>
+    <wsdl:port name="CallNadraPensiorSoap12" binding="tns:CallNadraPensiorSoap12">
+      <soap12:address location="http://172.18.0.37:4000/CallNadraPensior.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

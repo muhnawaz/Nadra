@@ -1,0 +1,25 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/21/2021 11:48:30 AM
+Request from User : {Session_ID :  ,Citizen_No : 4250169555919 ,Contact_No : 03412983745 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/21/2021 11:48:52 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/21/2021 11:49:04 AM
+Request from User : {Session_ID :  ,Citizen_No : 4250169555919 ,Contact_No : 03412983745 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/21/2021 11:49:25 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/21/2021 11:51:07 AM
+Request from User : {Session_ID :  ,Citizen_No : 4250169555919 ,Contact_No : 03412983745 ,Finger_Index : 7 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/21/2021 11:51:29 AM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/21/2021 11:59:44 AM
+Request from User : {Session_ID :  ,Citizen_No : 4250169555919 ,Contact_No : 03149879765 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/21/2021 12:00:06 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/21/2021 12:09:25 PM
+Request from User : {Session_ID :  ,Citizen_No : 4250169555919 ,Contact_No : 03419898786 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/21/2021 12:09:46 PM

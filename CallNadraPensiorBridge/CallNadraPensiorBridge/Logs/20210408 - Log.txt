@@ -1,0 +1,5 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/8/2021 4:24:59 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : 1 ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : |CODE:100|MESSAGE:successful|SESSION_ID:3351100000000152451|CITIZEN_NUMBER:4240166090929
+Response from DMZ At : 4/8/2021 4:25:15 PM

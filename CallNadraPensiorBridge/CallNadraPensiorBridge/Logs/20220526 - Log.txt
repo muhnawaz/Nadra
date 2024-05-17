@@ -1,0 +1,6 @@
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 5/26/2022 5:04:53 PM
+Request from User : {CITIZEN_NUMBER : 4210196259815 }
+Exception At Bridge : Parameter is not valid.
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 5/26/2022 5:05:15 PM

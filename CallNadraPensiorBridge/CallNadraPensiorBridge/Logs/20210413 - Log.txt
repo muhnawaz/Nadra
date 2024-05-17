@@ -1,0 +1,30 @@
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/13/2021 2:29:44 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : RightThumb ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 2:30:06 PM
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/13/2021 2:33:03 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : RightThumb ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 2:33:24 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/13/2021 2:33:40 PM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 2:34:01 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/13/2021 5:41:11 PM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 5:41:33 PM
+------------------------------------------------------------------------------
+Pensior Last Verification Hitted At Bridge : 4/13/2021 5:41:52 PM
+Request from User : {CITIZEN_NUMBER : 4240166090929 }
+------------------------------------------------------------------------------
+Pensior Verification Hitted At Bridge : 4/13/2021 5:41:57 PM
+Request from User : {Session_ID :  ,Citizen_No : 4240166090929 ,Contact_No : 03412289317 ,Finger_Index : RightThumb ,Area_Name : sindh ,Account_Type : current }
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 5:42:13 PM
+Response from DMZ : Unable to connect to the remote server
+Response from DMZ At : 4/13/2021 5:42:18 PM
